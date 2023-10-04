@@ -11,7 +11,7 @@ Main python script which acts as python_API to integrate it with backend. For te
 ## test.py
 Used for testing purpose in deception analysis
 
-## emotive_python_api.docx.pdf
+## emotive_python_api.pdf
 Some more abstract interpretation of working procedure of deception detection code.
 
 
