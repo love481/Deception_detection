@@ -1,0 +1,397 @@
+Host	Host	66.406	125.663	59.257	
+Host	Host	146.160	220.354	74.194	
+Host_non_verbal	Host	66.406	69.230	2.824	
+Host_non_verbal	Host	77.460	82.170	4.710	
+Host_non_verbal	Host	82.170	87.560	5.390	
+Host_non_verbal	Host	87.560	90.650	3.090	
+Host_non_verbal	Host	90.650	93.510	2.860	
+Host_non_verbal	Host	93.510	96.910	3.400	
+Host_non_verbal	Host	96.910	103.302	6.392	
+Host_non_verbal	Host	106.930	110.840	3.910	
+Host_non_verbal	Host	110.840	113.950	3.110	
+Host_non_verbal	Host	113.950	119.750	5.800	
+Host_non_verbal	Host	119.750	123.040	3.290	
+Host_non_verbal	Host	123.040	124.580	1.540	
+Host_non_verbal	Host	124.580	125.663	1.083	
+Host_non_verbal	Host	146.160	154.790	8.630	
+Host_non_verbal	Host	164.410	170.130	5.720	
+Host_non_verbal	Host	170.130	173.700	3.570	
+Host_non_verbal	Host	173.700	175.660	1.960	
+Host_non_verbal	Host	175.660	180.648	4.988	
+Host_non_verbal	Host	183.713	191.670	7.957	
+Host_non_verbal	Host	191.670	194.560	2.890	
+Host_non_verbal	Host	194.560	197.870	3.310	
+Host_non_verbal	Host	200.140	203.100	2.960	
+Host_non_verbal	Host	203.100	206.880	3.780	
+Host_non_verbal	Host	206.880	212.950	6.070	
+Host_non_verbal	Host	212.950	216.920	3.970	
+Host_non_verbal	Host	216.920	220.350	3.430	
+Guest	Guest	65.418	126.477	61.059	
+Guest	Guest	145.563	220.604	75.041	
+Host_verbal	Host	69.920	71.690	1.770	
+Host_verbal	Host	69.920	71.690	1.770	I'm not going to look but I can't see.
+Host_verbal	Host	81.080	81.850	0.770	
+Host_verbal	Host	81.080	81.850	0.770	Hi.
+Host_verbal	Host	85.970	91.840	5.870	
+Host_verbal	Host	85.970	91.840	5.870	Haha ha ha ha
+Host_verbal	Host	92.770	96.110	3.340	
+Host_verbal	Host	92.770	96.110	3.340	That was a game we've tried once before, it wasn't as funny.
+Host_verbal	Host	113.480	123.690	10.210	
+Host_verbal	Host	113.480	123.690	10.210	Heh heh heh.  I think that's a wholly, I don't know 'cause you might be so good you might be telling the truth.  Ha ha ha.  Gosh.  I'm going to say it ..
+Host_verbal	Host	149.440	151.570	2.130	
+Host_verbal	Host	149.440	151.570	2.130	Okay so it's in the box, okay here we go
+Host_verbal	Host	153.000	156.070	3.070	
+Host_verbal	Host	153.000	156.070	3.070	There are corners in the thing i am asking.
+Host_verbal	Host	167.630	168.670	1.040	
+Host_verbal	Host	167.630	168.670	1.040	Okay.
+Host_verbal	Host	171.440	173.740	2.300	
+Host_verbal	Host	171.440	173.740	2.300	In my box.
+Host_verbal	Host	177.210	179.750	2.540	
+Host_verbal	Host	177.210	179.750	2.540	There was a sharp object
+Host_verbal	Host	181.880	185.830	3.950	
+Host_verbal	Host	181.880	185.830	3.950	And it is one of those...
+Host_verbal	Host	188.650	196.820	8.170	
+Host_verbal	Host	188.650	196.820	8.170	Bartender tools that have, couple useful things, and couple things that aren't useful.
+Host_verbal	Host	199.240	200.770	1.530	
+Host_verbal	Host	199.240	200.770	1.530	To many tools
+Host_verbal	Host	201.420	204.990	3.570	
+Host_verbal	Host	201.420	204.990	3.570	Swiss army bartender knife.
+Host_verbal	Host	212.463	213.497	1.034	
+Host_verbal	Host	212.463	213.497	1.034	Yes
+Host_verbal	Host	214.780	217.080	2.300	
+Host_verbal	Host	214.780	217.080	2.300	It is red. It is red.
+Host_General face	Host	66.406	69.230	2.824	neutral
+Host_General face	Host	77.460	82.170	4.710	neutral
+Host_General face	Host	87.560	90.650	3.090	laughter
+Host_General face	Host	93.510	96.910	3.400	smile
+Host_General face	Host	106.930	110.840	3.910	laughter
+Host_General face	Host	113.950	119.750	5.800	smile
+Host_General face	Host	123.040	124.580	1.540	other
+Host_General face	Host	146.160	154.790	8.630	neutral
+Host_General face	Host	164.410	170.130	5.720	neutral
+Host_General face	Host	170.130	173.700	3.570	smile
+Host_General face	Host	175.660	180.648	4.988	smile
+Host_General face	Host	183.713	191.670	7.957	neutral
+Host_General face	Host	194.560	197.870	3.310	smile
+Host_General face	Host	203.100	206.880	3.780	smile
+Host_General face	Host	212.950	216.920	3.970	smile
+Audience	Audience	72.090	77.170	5.080	Laughing
+Audience	Audience	79.390	80.680	1.290	Laughing
+Audience	Audience	81.770	84.070	2.300	Laughing
+Audience	Audience	86.510	100.218	13.708	Clap. + Laughing
+Audience	Audience	106.360	116.290	9.930	Laughing
+Audience	Audience	119.374	121.980	2.606	Laughing
+Audience	Audience	126.160	131.140	4.980	Clap. + Cheering
+Audience	Audience	145.970	147.465	1.495	Laughing
+Audience	Audience	154.872	157.650	2.778	Laughing
+Audience	Audience	157.650	173.520	15.870	Laughing
+Audience	Audience	173.520	177.510	3.990	Laughing
+Audience	Audience	179.467	181.265	1.798	Laughing
+Audience	Audience	196.540	200.500	3.960	Laughing
+Audience	Audience	203.290	211.662	8.372	Laughing
+Audience	Audience	212.580	218.302	5.722	Clap. + Laughing
+Host_feedback_receiving	Host	66.517	81.740	15.223	con. perception
+Host_feedback_receiving	Host	81.740	92.180	10.440	con. understanding
+Host_feedback_receiving	Host	97.490	110.871	13.381	con. understanding
+Host_feedback_receiving	Host	110.871	114.690	3.819	con. perception
+Host_feedback_receiving	Host	206.163	220.354	14.191	non-acceptance
+Host_feedback_eliciting	Host	114.436	123.875	9.439	non-acceptance
+Host_feedback_eliciting	Host	153.000	155.620	2.620	con. understanding
+Host_feedback_eliciting	Host	168.856	179.890	11.034	con. perception
+Host_feedback_eliciting	Host	183.167	197.748	14.581	con. perception
+Host_feedback_eliciting	Host	200.051	205.923	5.872	con. perception
+Host_Eyebrows	Host	66.406	69.230	2.824	neutral/normal
+Host_Eyebrows	Host	77.460	82.170	4.710	neutral/normal
+Host_Eyebrows	Host	87.560	90.650	3.090	other
+Host_Eyebrows	Host	93.510	96.910	3.400	neutral/normal
+Host_Eyebrows	Host	106.930	110.840	3.910	other
+Host_Eyebrows	Host	113.950	119.750	5.800	raising
+Host_Eyebrows	Host	123.040	124.580	1.540	neutral/normal
+Host_Eyebrows	Host	146.160	154.790	8.630	neutral/normal
+Host_Eyebrows	Host	164.410	170.130	5.720	neutral/normal
+Host_Eyebrows	Host	170.130	173.700	3.570	raising
+Host_Eyebrows	Host	175.660	180.648	4.988	neutral/normal
+Host_Eyebrows	Host	183.713	191.670	7.957	raising
+Host_Eyebrows	Host	194.560	197.870	3.310	neutral/normal
+Host_Eyebrows	Host	203.100	206.880	3.780	neutral/normal
+Host_Eyebrows	Host	212.950	216.920	3.970	neutral/normal
+Host_Eyes	Host	66.406	69.230	2.824	neutral/open
+Host_Eyes	Host	77.460	82.170	4.710	Closing-repeated
+Host_Eyes	Host	87.560	90.650	3.090	Closing-both
+Host_Eyes	Host	93.510	96.910	3.400	Closing-both
+Host_Eyes	Host	106.930	110.840	3.910	Closing-both
+Host_Eyes	Host	113.950	119.750	5.800	Other
+Host_Eyes	Host	123.040	124.580	1.540	neutral/open
+Host_Eyes	Host	146.160	154.790	8.630	neutral/open
+Host_Eyes	Host	164.410	170.130	5.720	neutral/open
+Host_Eyes	Host	170.130	173.700	3.570	neutral/open
+Host_Eyes	Host	175.660	180.648	4.988	Closing-repeated
+Host_Eyes	Host	183.713	191.670	7.957	Closing-repeated
+Host_Eyes	Host	194.560	197.870	3.310	neutral/open
+Host_Eyes	Host	203.100	206.880	3.780	neutral/open
+Host_Eyes	Host	212.950	216.920	3.970	neutral/open
+Host_Gaze	Host	66.406	69.230	2.824	Towards interlocutor
+Host_Gaze	Host	77.460	82.170	4.710	Towards interlocutor
+Host_Gaze	Host	87.560	90.650	3.090	Towards interlocutor
+Host_Gaze	Host	93.510	96.910	3.400	Towards interlocutor
+Host_Gaze	Host	106.930	110.840	3.910	Towards interlocutor
+Host_Gaze	Host	113.950	119.750	5.800	Towards interlocutor
+Host_Gaze	Host	123.040	124.580	1.540	Towards interlocutor
+Host_Gaze	Host	146.160	154.790	8.630	Towards object
+Host_Gaze	Host	164.410	170.130	5.720	Towards object
+Host_Gaze	Host	170.130	173.700	3.570	Towards interlocutor
+Host_Gaze	Host	175.660	180.648	4.988	Towards interlocutor
+Host_Gaze	Host	183.713	191.670	7.957	Down
+Host_Gaze	Host	194.560	197.870	3.310	Towards interlocutor
+Host_Gaze	Host	203.100	206.880	3.780	Towards interlocutor
+Host_Gaze	Host	212.950	216.920	3.970	Siedeways
+Host_Mouth_Openess	Host	66.406	69.230	2.824	Closed mouth
+Host_Mouth_Openess	Host	77.460	82.170	4.710	Closed mouth
+Host_Mouth_Openess	Host	87.560	90.650	3.090	Open mouth
+Host_Mouth_Openess	Host	93.510	96.910	3.400	Open mouth
+Host_Mouth_Openess	Host	106.930	110.840	3.910	Closed mouth
+Host_Mouth_Openess	Host	113.950	119.750	5.800	Open mouth
+Host_Mouth_Openess	Host	123.040	124.580	1.540	Open mouth
+Host_Mouth_Openess	Host	146.160	154.790	8.630	Closed mouth
+Host_Mouth_Openess	Host	164.410	170.130	5.720	Closed mouth
+Host_Mouth_Openess	Host	170.130	173.700	3.570	Open mouth
+Host_Mouth_Openess	Host	175.660	180.648	4.988	Open mouth
+Host_Mouth_Openess	Host	183.713	191.670	7.957	Open mouth
+Host_Mouth_Openess	Host	194.560	197.870	3.310	Open mouth
+Host_Mouth_Openess	Host	203.100	206.880	3.780	Open mouth
+Host_Mouth_Openess	Host	212.950	216.920	3.970	Closed mouth
+Host_Mouth_Lips	Host	66.406	69.230	2.824	neutral
+Host_Mouth_Lips	Host	77.460	82.170	4.710	neutral
+Host_Mouth_Lips	Host	87.560	90.650	3.090	Retracted
+Host_Mouth_Lips	Host	93.510	96.910	3.400	Corners up
+Host_Mouth_Lips	Host	106.930	110.840	3.910	Corners up
+Host_Mouth_Lips	Host	113.950	119.750	5.800	Retracted
+Host_Mouth_Lips	Host	123.040	124.580	1.540	Corners down
+Host_Mouth_Lips	Host	146.160	154.790	8.630	neutral
+Host_Mouth_Lips	Host	164.410	170.130	5.720	neutral
+Host_Mouth_Lips	Host	170.130	173.700	3.570	Other
+Host_Mouth_Lips	Host	175.660	180.648	4.988	Corners up
+Host_Mouth_Lips	Host	183.713	191.670	7.957	Other
+Host_Mouth_Lips	Host	194.560	197.870	3.310	Protruded
+Host_Mouth_Lips	Host	203.100	206.880	3.780	Retracted
+Host_Mouth_Lips	Host	212.950	216.920	3.970	Other
+Host_Head	Host	66.406	69.230	2.824	Move Forward
+Host_Head	Host	77.460	82.170	4.710	Single Nod (Down)
+Host_Head	Host	82.170	87.560	5.390	Move Forward
+Host_Head	Host	87.560	90.650	3.090	Move Backward
+Host_Head	Host	90.650	93.510	2.860	Single Jerk (Backwards Up)
+Host_Head	Host	93.510	96.910	3.400	Side-turn
+Host_Head	Host	96.910	103.302	6.392	Single Nod (Down)
+Host_Head	Host	106.930	110.840	3.910	Single Nod (Down)
+Host_Head	Host	110.840	113.950	3.110	Move Backward
+Host_Head	Host	113.950	119.750	5.800	Shake (repeated)
+Host_Head	Host	119.750	123.040	3.290	Waggle
+Host_Head	Host	123.040	124.580	1.540	Waggle
+Host_Head	Host	124.580	125.663	1.083	Neutral/still
+Host_Head	Host	146.160	154.790	8.630	Neutral/still
+Host_Head	Host	164.410	170.130	5.720	Move Backward
+Host_Head	Host	170.130	173.700	3.570	Single Tilt (Sideways)
+Host_Head	Host	173.700	175.660	1.960	Single Nod (Down)
+Host_Head	Host	175.660	180.648	4.988	Waggle
+Host_Head	Host	183.713	191.670	7.957	Single Nod (Down)
+Host_Head	Host	191.670	194.560	2.890	Repeated Nods (Down)
+Host_Head	Host	194.560	197.870	3.310	Waggle
+Host_Head	Host	200.140	203.100	2.960	Repeated Nods (Down)
+Host_Head	Host	203.100	206.880	3.780	Single Nod (Down)
+Host_Head	Host	206.880	212.950	6.070	Waggle
+Host_Head	Host	212.950	216.920	3.970	Single Jerk (Backwards Up)
+Host_Head	Host	216.920	220.350	3.430	Single Nod (Down)
+Guest_non_verbal	Guest	65.418	69.620	4.202	
+Guest_non_verbal	Guest	77.295	82.050	4.755	
+Guest_non_verbal	Guest	82.050	87.730	5.680	
+Guest_non_verbal	Guest	87.730	90.490	2.760	
+Guest_non_verbal	Guest	90.490	93.090	2.600	
+Guest_non_verbal	Guest	93.090	97.060	3.970	
+Guest_non_verbal	Guest	97.060	103.352	6.292	
+Guest_non_verbal	Guest	106.840	110.720	3.880	
+Guest_non_verbal	Guest	110.720	113.700	2.980	
+Guest_non_verbal	Guest	113.700	119.810	6.110	
+Guest_non_verbal	Guest	119.810	123.030	3.220	
+Guest_non_verbal	Guest	123.030	124.580	1.550	
+Guest_non_verbal	Guest	124.580	126.477	1.897	
+Guest_non_verbal	Guest	145.563	154.890	9.327	
+Guest_non_verbal	Guest	164.450	170.060	5.610	
+Guest_non_verbal	Guest	170.060	173.690	3.630	
+Guest_non_verbal	Guest	173.690	175.600	1.910	
+Guest_non_verbal	Guest	175.600	180.650	5.050	
+Guest_non_verbal	Guest	183.640	191.510	7.870	
+Guest_non_verbal	Guest	191.510	194.540	3.030	
+Guest_non_verbal	Guest	194.540	197.850	3.310	
+Guest_non_verbal	Guest	200.240	203.210	2.970	
+Guest_non_verbal	Guest	203.210	206.900	3.690	
+Guest_non_verbal	Guest	206.900	213.150	6.250	
+Guest_non_verbal	Guest	213.150	216.890	3.740	
+Guest_non_verbal	Guest	216.890	220.604	3.714	
+Guest_verbal	Guest	67.820	68.850	1.030	
+Guest_verbal	Guest	67.820	68.850	1.030	Oh. Okay.
+Guest_verbal	Guest	76.550	77.310	0.760	
+Guest_verbal	Guest	76.550	77.310	0.760	Okay.
+Guest_verbal	Guest	77.970	79.500	1.530	
+Guest_verbal	Guest	77.970	79.500	1.530	Guys got that?
+Guest_verbal	Guest	80.210	81.510	1.300	
+Guest_verbal	Guest	80.210	81.510	1.300	Hello
+Guest_verbal	Guest	84.335	86.871	2.536	
+Guest_verbal	Guest	84.335	86.871	2.536	In my box
+Guest_verbal	Guest	98.610	106.280	7.670	
+Guest_verbal	Guest	98.610	106.280	7.670	Was a kitchen colander full of ping-pong balls.
+Guest_verbal	Guest	124.942	126.477	1.535	
+Guest_verbal	Guest	124.942	126.477	1.535	it's the truth
+Guest_verbal	Guest	145.563	146.727	1.164	
+Guest_verbal	Guest	145.563	146.727	1.164	hah hah hah!
+Guest_verbal	Guest	147.720	149.260	1.540	
+Guest_verbal	Guest	147.720	149.260	1.540	You hear me on TV, I say three.
+Guest_verbal	Guest	156.780	158.550	1.770	
+Guest_verbal	Guest	156.780	158.550	1.770	Your staff hates me.
+Guest_verbal	Guest	174.380	176.460	2.080	
+Guest_verbal	Guest	174.380	176.460	2.080	ughh
+Guest_verbal	Guest	180.390	181.390	1.000	
+Guest_verbal	Guest	180.390	181.390	1.000	Okay
+Guest_verbal	Guest	190.440	191.210	0.770	
+Guest_verbal	Guest	190.440	191.210	0.770	Aha!
+Guest_verbal	Guest	200.900	201.900	1.000	
+Guest_verbal	Guest	200.900	201.900	1.000	Aha...
+Guest_verbal	Guest	211.330	212.840	1.510	
+Guest_verbal	Guest	211.330	212.840	1.510	Have you finished?
+Guest_verbal	Guest	217.650	220.150	2.500	
+Guest_verbal	Guest	217.650	220.150	2.500	I think you are lying
+Guest_feedback_receiving	Guest	87.012	95.990	8.978	con. perception
+Guest_feedback_receiving	Guest	107.821	122.540	14.719	con. perception
+Guest_feedback_receiving	Guest	122.540	124.840	2.300	non-acceptance
+Guest_feedback_receiving	Guest	153.030	155.600	2.570	con. understanding
+Guest_feedback_receiving	Guest	168.949	180.431	11.482	con. understanding
+Guest_feedback_receiving	Guest	183.150	197.548	14.398	con. understanding
+Guest_feedback_receiving	Guest	199.160	205.840	6.680	con. understanding
+Guest_feedback_eliciting	Guest	66.851	70.688	3.837	con. perception
+Guest_feedback_eliciting	Guest	76.827	87.038	10.211	con. perception
+Guest_feedback_eliciting	Guest	95.999	106.724	10.725	con. perception
+Guest_feedback_eliciting	Guest	211.180	218.300	7.120	con. perception
+Guest_feedback_eliciting	Guest	218.300	220.600	2.300	non-acceptance
+Guest_General face	Guest	65.418	69.620	4.202	neutral
+Guest_General face	Guest	77.295	82.050	4.755	other
+Guest_General face	Guest	82.050	87.730	5.680	smile
+Guest_General face	Guest	90.490	93.090	2.600	smile
+Guest_General face	Guest	97.060	103.352	6.292	neutral
+Guest_General face	Guest	110.720	113.700	2.980	smile
+Guest_General face	Guest	119.810	123.030	3.220	laughter
+Guest_General face	Guest	124.580	126.477	1.897	smile
+Guest_General face	Guest	145.563	154.890	9.327	neutral
+Guest_General face	Guest	164.450	170.060	5.610	smile
+Guest_General face	Guest	173.690	175.600	1.910	smile
+Guest_General face	Guest	191.510	194.540	3.030	smile
+Guest_General face	Guest	200.240	203.210	2.970	other
+Guest_General face	Guest	206.900	213.150	6.250	other
+Guest_General face	Guest	216.890	220.604	3.714	smile
+Guest_Eyebrows	Guest	65.418	69.620	4.202	None
+Guest_Eyebrows	Guest	77.295	82.050	4.755	raising
+Guest_Eyebrows	Guest	82.050	87.730	5.680	raising
+Guest_Eyebrows	Guest	90.490	93.090	2.600	neutral/normal
+Guest_Eyebrows	Guest	97.060	103.352	6.292	raising
+Guest_Eyebrows	Guest	110.720	113.700	2.980	neutral/normal
+Guest_Eyebrows	Guest	119.810	123.030	3.220	raising
+Guest_Eyebrows	Guest	124.580	126.477	1.897	neutral/normal
+Guest_Eyebrows	Guest	145.563	154.890	9.327	raising
+Guest_Eyebrows	Guest	164.450	170.060	5.610	raising
+Guest_Eyebrows	Guest	173.690	175.600	1.910	raising
+Guest_Eyebrows	Guest	191.510	194.540	3.030	neutral/normal
+Guest_Eyebrows	Guest	200.240	203.210	2.970	neutral/normal
+Guest_Eyebrows	Guest	206.900	213.150	6.250	raising
+Guest_Eyebrows	Guest	216.890	220.604	3.714	neutral/normal
+Guest_Eyes	Guest	65.418	69.620	4.202	None
+Guest_Eyes	Guest	77.295	82.050	4.755	neutral/open
+Guest_Eyes	Guest	82.050	87.730	5.680	neutral/open
+Guest_Eyes	Guest	90.490	93.090	2.600	neutral/open
+Guest_Eyes	Guest	97.060	103.352	6.292	neutral/open
+Guest_Eyes	Guest	110.720	113.700	2.980	Closing-repeated
+Guest_Eyes	Guest	119.810	123.030	3.220	Closing-repeated
+Guest_Eyes	Guest	124.580	126.477	1.897	neutral/open
+Guest_Eyes	Guest	145.563	154.890	9.327	Closing-both
+Guest_Eyes	Guest	164.450	170.060	5.610	Closing-repeated
+Guest_Eyes	Guest	173.690	175.600	1.910	Closing-both
+Guest_Eyes	Guest	191.510	194.540	3.030	neutral/open
+Guest_Eyes	Guest	200.240	203.210	2.970	Other
+Guest_Eyes	Guest	206.900	213.150	6.250	Closing-repeated
+Guest_Eyes	Guest	216.890	220.604	3.714	Closing-repeated
+Guest_Gaze	Guest	65.418	69.620	4.202	Towards object
+Guest_Gaze	Guest	77.295	82.050	4.755	Towards audience
+Guest_Gaze	Guest	82.050	87.730	5.680	Towards object
+Guest_Gaze	Guest	90.490	93.090	2.600	Towards object
+Guest_Gaze	Guest	97.060	103.352	6.292	Towards object
+Guest_Gaze	Guest	110.720	113.700	2.980	Towards interlocutor
+Guest_Gaze	Guest	119.810	123.030	3.220	Towards interlocutor
+Guest_Gaze	Guest	124.580	126.477	1.897	Towards audience
+Guest_Gaze	Guest	145.563	154.890	9.327	Other
+Guest_Gaze	Guest	164.450	170.060	5.610	Towards interlocutor
+Guest_Gaze	Guest	173.690	175.600	1.910	Towards interlocutor
+Guest_Gaze	Guest	191.510	194.540	3.030	Towards interlocutor
+Guest_Gaze	Guest	200.240	203.210	2.970	Towards interlocutor
+Guest_Gaze	Guest	206.900	213.150	6.250	Towards interlocutor
+Guest_Gaze	Guest	216.890	220.604	3.714	Towards interlocutor
+Guest_Mouth_Openess	Guest	65.418	69.620	4.202	Open mouth
+Guest_Mouth_Openess	Guest	77.295	82.050	4.755	Open mouth
+Guest_Mouth_Openess	Guest	82.050	87.730	5.680	Open mouth
+Guest_Mouth_Openess	Guest	90.490	93.090	2.600	Open mouth
+Guest_Mouth_Openess	Guest	97.060	103.352	6.292	Open mouth
+Guest_Mouth_Openess	Guest	110.720	113.700	2.980	Open mouth
+Guest_Mouth_Openess	Guest	119.810	123.030	3.220	Open mouth
+Guest_Mouth_Openess	Guest	124.580	126.477	1.897	Open mouth
+Guest_Mouth_Openess	Guest	145.563	154.890	9.327	Open mouth
+Guest_Mouth_Openess	Guest	164.450	170.060	5.610	Closed mouth
+Guest_Mouth_Openess	Guest	173.690	175.600	1.910	Open mouth
+Guest_Mouth_Openess	Guest	191.510	194.540	3.030	Open mouth
+Guest_Mouth_Openess	Guest	200.240	203.210	2.970	Open mouth
+Guest_Mouth_Openess	Guest	206.900	213.150	6.250	Closed mouth
+Guest_Mouth_Openess	Guest	216.890	220.604	3.714	Closed mouth
+Guest_Mouth_Lips	Guest	65.418	69.620	4.202	neutral
+Guest_Mouth_Lips	Guest	77.295	82.050	4.755	Other
+Guest_Mouth_Lips	Guest	82.050	87.730	5.680	Corners up
+Guest_Mouth_Lips	Guest	90.490	93.090	2.600	Corners up
+Guest_Mouth_Lips	Guest	97.060	103.352	6.292	neutral
+Guest_Mouth_Lips	Guest	110.720	113.700	2.980	Retracted
+Guest_Mouth_Lips	Guest	119.810	123.030	3.220	Retracted
+Guest_Mouth_Lips	Guest	124.580	126.477	1.897	Retracted
+Guest_Mouth_Lips	Guest	145.563	154.890	9.327	neutral
+Guest_Mouth_Lips	Guest	164.450	170.060	5.610	Corners up
+Guest_Mouth_Lips	Guest	173.690	175.600	1.910	Retracted
+Guest_Mouth_Lips	Guest	191.510	194.540	3.030	neutral
+Guest_Mouth_Lips	Guest	200.240	203.210	2.970	Other
+Guest_Mouth_Lips	Guest	206.900	213.150	6.250	Other
+Guest_Mouth_Lips	Guest	216.890	220.604	3.714	Retracted
+Guest_Head	Guest	65.418	69.620	4.202	Move Backward
+Guest_Head	Guest	77.295	82.050	4.755	Side-turn
+Guest_Head	Guest	82.050	87.730	5.680	Repeated Nods (Down)
+Guest_Head	Guest	87.730	90.490	2.760	Waggle
+Guest_Head	Guest	90.490	93.090	2.600	Single Tilt (Sideways)
+Guest_Head	Guest	93.090	97.060	3.970	Waggle
+Guest_Head	Guest	97.060	103.352	6.292	Waggle
+Guest_Head	Guest	106.840	110.720	3.880	Neutral/still
+Guest_Head	Guest	110.720	113.700	2.980	Waggle
+Guest_Head	Guest	113.700	119.810	6.110	Waggle
+Guest_Head	Guest	119.810	123.030	3.220	Shake (repeated)
+Guest_Head	Guest	123.030	124.580	1.550	Neutral/still
+Guest_Head	Guest	124.580	126.477	1.897	Side-turn
+Guest_Head	Guest	145.563	154.890	9.327	Side-turn
+Guest_Head	Guest	164.450	170.060	5.610	Waggle
+Guest_Head	Guest	170.060	173.690	3.630	Waggle
+Guest_Head	Guest	173.690	175.600	1.910	Waggle
+Guest_Head	Guest	175.600	180.650	5.050	Waggle
+Guest_Head	Guest	183.640	191.510	7.870	Side-turn
+Guest_Head	Guest	191.510	194.540	3.030	Move Forward
+Guest_Head	Guest	194.540	197.850	3.310	Neutral/still
+Guest_Head	Guest	200.240	203.210	2.970	Repeated Nods (Down)
+Guest_Head	Guest	203.210	206.900	3.690	Waggle
+Guest_Head	Guest	206.900	213.150	6.250	Repeated Nods (Down)
+Guest_Head	Guest	213.150	216.890	3.740	Waggle
+Guest_Head	Guest	216.890	220.604	3.714	Move Forward
+Veracity_description	Host/Guest	66.417	99.150	32.733	lie
+Veracity_description	Host/Guest	99.150	107.660	8.510	truthful
+Veracity_description	Host/Guest	107.660	125.176	17.516	lie
+Veracity_description	Host/Guest	145.102	177.260	32.158	lie
+Veracity_description	Host/Guest	177.260	180.210	2.950	truthful
+Veracity_description	Host/Guest	180.210	220.204	39.994	lie
+Describer_Object	Host/Guest	65.082	129.452	64.370	Guest
+Describer_Object	Host/Guest	144.829	220.776	75.947	Host
